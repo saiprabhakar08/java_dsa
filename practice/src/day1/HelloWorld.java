@@ -3,8 +3,9 @@ package day1;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello world, This is my first java program written in Eclipse IDE");
+		int num1=35;
+		int num2=45;
+		System.out.println(num2);
 	}
 
 }
